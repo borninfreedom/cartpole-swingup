@@ -1,2 +1,3 @@
-# cartpole-swingup
-Using spinningup and stable-baselines3(pytorch version) to train the cartpole swingup problem seperately.
+# drl-robots
+Deep Reinforcement Learning and Robots.
+* The detaild instructions can be found at [here](https://blog.csdn.net/bornfree5511/article/details/109474741)
